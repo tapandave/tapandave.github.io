@@ -1,0 +1,194 @@
+{
+  "main": {
+    "name":"Tapan Dave",
+    "occupation":"Full Stack Developer",
+    "description":{
+      "h2": "with more than 5 years of extensive experience in",
+      "skills": "#html,#css,#javascript",
+      "h3": "i have worked with many big client around the globe, with different domains like",
+      "domains": "e-commerce,fintech services",
+      "summary": "I enjoy using my obsessive attention to detail, my unequivocal love for making things, and my mission-driven work ethic to literally change the world. That's why I’m excited to make a big impact at a high growth company."
+    },
+    "profileImg":"https://media-exp1.licdn.com/dms/image/C5103AQGAu4j3qtNWvQ/profile-displayphoto-shrink_200_200/0?e=1596067200&v=beta&t=vzgdwiZVERDi_5TgRnlAS-fDGoq7Z4AJIMW4Pd_Mk-Q",
+    "bio": [
+      {
+        "info": "I have been working in Front End Development Since 2014, started carrer as an part of my passion toward web development, i was always enthustict about coding and front end world, so started enrolling to online courses and bootcamps to make Web Develpoment as my carrer. I merge my passion for coding and user experince with technical knoledge to create a cool digit experince."
+      },
+      {
+        "info": "I have worked with many big consulatancy companies to start-ups. Actively mentors intermediate and junior developers and provide guidance to the team members to achieve highest levels of quality and productivity and have worked with a good number of successful development team I wanted to be a part of an esteemed organization wherein I can contribute to the growth of the company, thus improving my knowledge through dedication and hard work."
+      }
+    ],
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "tapandave08@gmail.com",
+    "phone": "(+91)-8460160983",
+    "address":{
+      "city":"Ahmedabad",
+      "state":"Gujarat",
+      "zip": "380052"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"http://facebook.com/tim.baker.906",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"google-plus",
+        "url":"http://googleplus.com/tbakerx",
+        "className":"fa fa-google-plus"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/tbaker_x",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/tbakerx",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Gujarat Univercity",
+        "degree":"Bachelor of Commerce",
+        "graduated":"April 2013",
+        "description":"Completed BCom with First Grade Percentage"
+      },
+      {
+        "school":"NIIT",
+        "degree":"GNIIT - Diploma Software Enginerring",
+        "graduated":"March 2013",
+        "description":"Towards My passion, i started GNIIT Course along with my Bachelaor"
+      }
+    ],
+    "work":[
+      {
+        "company":"Sooryen Technologies",
+        "title":"Senior Software Engineer",
+        "years":"March 2019 - Present",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"Sprouting Stump",
+        "title":"Full Stack Developer",
+        "years":"September 20017 - September 2019",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"Analytix Solutions",
+        "title":"Front End Developer",
+        "years":"April 2015 - August 2017",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"Volansys Technologies",
+        "title":"Front End Developer",
+        "years":"December 2014 - April 2015",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"Lets Nurture",
+        "title":"Intern-Ship",
+        "years":"2013 - December 2014",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"Illustrator",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"VueJs",
+        "level":"50%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
